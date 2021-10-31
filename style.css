@@ -13,7 +13,7 @@ body {
 
 .empty {
     width: 200px;
-    min-height: 10px;
+    min-height: 25px;
     float: left;
 }
 
