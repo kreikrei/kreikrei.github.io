@@ -2560,14 +2560,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #98CD2D;
+    border-color: #98CD2D;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc
+    background-color: #006C3A;
+    border-color: #005e32
 }
 
 .btn-primary.focus,
